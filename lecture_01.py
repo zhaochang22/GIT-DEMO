@@ -4,6 +4,7 @@ from dataclasses import dataclass
 from collections import defaultdict
 import random
 
+
 from execute_util import link, image, text
 from lecture_util import article_link, x_link, youtube_link
 from references import gpt_3, gpt4, shannon1950, bengio2003, susketver2014, \
